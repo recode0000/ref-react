@@ -1,3 +1,8 @@
+.game {
+  display: flex;
+  justify-content: center;
+}
+
 .square {
   display: flex;
   align-items: center;
@@ -8,6 +13,6 @@
   font-weight: bold;
 }
 
-.border-row {
+.board-row {
   display: flex;
 }
